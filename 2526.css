@@ -484,7 +484,7 @@ h2 {
 }
 
 .clock-container {
-  background-color: #c8102e;
+  background-color: #fff;
   padding: 10px;
   display: inline-block;
   position: relative;
@@ -570,7 +570,7 @@ h2 {
 }
 
 .right-column p {
-  color: #fff;
+  color: #041e42;
   letter-spacing: 0.1em;
   font-family: "refrigerator-deluxe", sans-serif;
   font-size: 2rem;
