@@ -484,7 +484,7 @@ h2 {
 }
 
 .clock-container {
-  background-color: #041e42;
+  background-color: #c8102e;
   padding: 10px;
   display: inline-block;
   position: relative;
@@ -492,7 +492,7 @@ h2 {
   margin-right: 0;
   max-width: 1284px;
   width: 100%;
-  min-height: 125px;
+  min-height: 100px;
 }
 
 .column {
